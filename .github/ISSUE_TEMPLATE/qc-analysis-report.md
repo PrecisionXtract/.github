@@ -12,3 +12,6 @@ assignees: ''
 - [ ] The documented process runs without error
 - [ ] Results are saved in a reasonably compact format (i.e. no hunting through log files)
 - [ ] Generated results match results delivered by the original analyst(s)
+- [ ] New issues have been created and assigned for any problems encountered
+
+This issue should be closed once all problems are fixed and the entire checklist is complete.
