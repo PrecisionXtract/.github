@@ -3,7 +3,7 @@ name: Migration Prep May 28th
 about: This repository needs to move
 title: Migration Prep
 labels: ''
-assignees: jeff-sullivan
+assignees: ''
 
 ---
 
