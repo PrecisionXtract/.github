@@ -1,17 +1,15 @@
 ---
 name: QC Analysis Report
 about: Template for analytic quality control process
-title: "[QC]"
-labels: documentation
+title: "[QC Analysis]"
+labels: quality-control
 assignees: ''
 
 ---
 
-- [ ] All code has been committed
-- [ ] The process for executing the analysis is documented within the repository (code, README, wiki, etc.)
-- [ ] The documented process runs without error
-- [ ] Results are saved in a reasonably compact format (i.e. no hunting through log files)
-- [ ] Generated results match results delivered by the original analyst(s)
+- [ ] Check that mathematical algorithms specified in the protocol/statistical analysis plan have been implemented correctly
+- [ ] Results are saved in a compact, easily reviewed format (best practice: R Markdown)
+- [ ] Check that the results are exactly reproducible
 - [ ] New issues have been created and assigned for any problems encountered
 
 This issue should be closed once all problems are fixed and the entire checklist is complete.
