@@ -2,20 +2,16 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: bug
+labels: quality-control documentation
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+Please make sure the following are complete when your portion of the project is near complete:
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+- [ ] Add clinical codes used to the wiki
+- [ ] Add the analytic file data dictionary to wiki
+- [ ] Document programs on the wiki
+- [ ] Documnet data related decisions on the wiki
+- [ ] Close out issues in the repository
+- [ ] Clean up /projects folder removing any unused files
