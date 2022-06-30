@@ -2,7 +2,7 @@
 name: Closeout project
 about: Near a project's end, make sure to tidy up loose ends
 title: ''
-labels: documentation
+labels: documentation, quality-control
 assignees: ''
 
 ---
