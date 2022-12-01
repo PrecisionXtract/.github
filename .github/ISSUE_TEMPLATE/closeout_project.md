@@ -12,7 +12,7 @@ Please make sure the following are complete when your portion of the project is 
 - [ ] Add clinical codes used to the wiki
 - [ ] Add the analytic file data dictionary to wiki
 - [ ] Document programs on the wiki
-- [ ] Documnet data related decisions on the wiki
+- [ ] Document data related decisions on the wiki
 - [ ] Close out issues in the repository
 - [ ] Clean up /projects folder removing any unused files
-- [ ] Make sure all of your files are committeed and pushed to GitHub
+- [ ] Make sure all of your files are committed and pushed to GitHub
